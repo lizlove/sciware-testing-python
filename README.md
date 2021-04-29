@@ -1,9 +1,9 @@
 # Sciware Testing Examples and Exercises
 
-[![](https://github.com/flatironinstitute/sciware-testing-python/actions/workflows/exercise.yml/badge.svg)](https://github.com/flatironinstitute/sciware-testing-python/actions)
-[![codecov](https://codecov.io/gh/flatironinstitute/sciware-testing-python/branch/main/graph/badge.svg?token=4z1jy9YqIV)](https://codecov.io/gh/flatironinstitute/sciware-testing-python)
+[![](https://github.com/lizlove/sciware-testing-python/actions/workflows/exercise.yml/badge.svg)](https://github.com/lizlove/sciware-testing-python/actions)
+[![codecov](https://codecov.io/gh/lizlove/sciware-testing-python/branch/main/graph/badge.svg?token=4z1jy9YqIV)](https://codecov.io/gh/lizlove/sciware-testing-python)
 
-This is an example repository for writing tests, for the Sciware Testing session. 
+This is an example repository for writing tests, for the Sciware Testing session.
 It demonstrates how to setup a repository to use GitHub actions to automatically run tests
 on the code.
 
